@@ -92,8 +92,8 @@ Key finding: `regParam=0.01` consistently underperformed as too little regularis
 steam-game-recommender/
 │
 ├── README.md
-├── 00785442_Assignment_2_Task_2.ipynb    # Jupyter notebook (full pipeline)
-└── 00785442_Assignment_2_Task_2.html     # Exported notebook with outputs
+├── Task_2.ipynb    # Jupyter notebook (full pipeline)
+└── Task_2.html     # Exported notebook with outputs
 ```
 
 ## How to Run
